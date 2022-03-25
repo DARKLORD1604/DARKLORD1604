@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DARKLORD1604
+- 👋 Hi, I’m ꧁Daⓡⓚ Lørⓓ꧂
 - 👀 I’m interested in music and coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on coding work with c++
